@@ -2,7 +2,7 @@
 - Manuela Aimê
 - Ana beatriz cordeiro de oliveira belmiro
 - Raissa Cunha Medeiros
-- 
+  
 # 🚀 Desafio de Engenharia de Software: O Pipeline Inquebrável
 
 Bem-vindos ao desafio prático de **CI/CD e DevOps**. Este repositório serve como base para a implementação de um fluxo de entrega contínua que segue os padrões mais rigorosos de automação, imutabilidade e resiliência.
