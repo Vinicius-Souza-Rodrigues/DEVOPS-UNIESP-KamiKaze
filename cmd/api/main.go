@@ -19,7 +19,7 @@ func main() {
 	userService := service.NewUserService(userRepo)
 
 	userHandler := handler.NewUserHandler(userService)
-	
+
 	http.HandleFunc("/health", handler.Health)
 
 	http.HandleFunc(
